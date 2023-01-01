@@ -1,4 +1,4 @@
-# `@azz/prettier-config`
+# `@rishijay/prettier-config`
 
 > My Custom [Prettier](https://prettier.io) config.
 
