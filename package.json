@@ -1,6 +1,6 @@
 {
   "name": "@rishijay/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Custom Prettier Config",
   "main": "index.json",
   "repository": "git@github.com:rishijay/prettier-config.git",
