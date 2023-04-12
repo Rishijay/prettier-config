@@ -1,9 +1,12 @@
 {
   "name": "@rishijay/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.1-alpha.1",
   "description": "My Custom Prettier Config",
   "main": "index.json",
   "repository": "git@github.com:rishijay/prettier-config.git",
   "author": "Rishijay Shrivastava",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  }
 }
